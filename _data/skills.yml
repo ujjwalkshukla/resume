@@ -1,12 +1,10 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
+# Technical Skills
+- skill: Technical Skills and Tools
+  description: SQL, Tableau, Power BI, MS-Excel, JIRA, Asana, Klaviyo, Google Analytics, Google Ads, Meta Ads, LinkedIn Ads, SEMrush, SPSS and Stripe
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Marketing Strategy and Product Development
+  description: Product Strategy Planning & Product Development ,Market Research, Content and Marketing strategy, Cross-Team Collaboration, Go-to-Market Strategy
+# Analytics
+- skill: Analytical Skills
+  description: Data Mining, Product Analytics, Hypothesis Testing, Machine Learning Algorithms and Data Driven Decision Making
