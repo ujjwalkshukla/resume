@@ -1,17 +1,18 @@
-#Masters degree: 
-    name: Master of Business Administration (MBA)
-    uni: Indian Institute of Technology (IIT), Kanpur
-    duration: 2021 &mdash; 2023
-    awards:
-      - award: Secured Pre-Placement Offer (PPO) from NeenOpal Inc., for the role of Product Manager, for the excellent performance during Capstone Project Internship (2023)
-      - award: Winner of Oxane Quest Season 1- A business case study competition by Oxane Partners. Also, secured Pre Placement Interview (PPI) for winning the case competition (2022)
-      - award: Received Pre-Placement Offer (PPO) from Tiger Analytics, for the role of Senior Business Analyst, for the excellent performance in Summer Internship (2022)
-    summary: Batch Representative, Capstone Coordinator, DPGC Student Representative
+# Degree
+- degree: Master of Business Administration (MBA)
+  uni: Indian Institute of Technology (IIT), Kanpur
+  year: 2021 &mdash; 2023
+  awards:
+    - award: Secured Pre-Placement Offer (PPO) from NeenOpal Inc., for the role of Product Manager, for the excellent performance during Capstone Project Internship (2023)
+    - award: Winner of Oxane Quest Season 1- A business case study competition by Oxane Partners. Also, secured Pre Placement Interview (PPI) for winning the case competition (2022)
+    - award: Received Pre-Placement Offer (PPO) from Tiger Analytics, for the role of Senior Business Analyst, for the excellent performance in Summer Internship (2022)
+  
+  summary: Batch Representative, Capstone Coordinator, DPGC Student Representative
 
-#Bachelors degree:
-    name: B.Tech
-    uni: Institute of Engineering and Technology (IET), Lucknow
-    duration: 2015 &mdash; 2019
-    awards:
-      - award: Received the prestigious Award for exemplary leadership as the Student Head of the Dean Student Welfare Committee, overseeing a team of 50+ members dedicated to managing scholarships for eligible students (2019)
-    summary: Treasurer at State Level Art's and Cultural Fest (2018), Dean Student Welfare Coordinator (2017-19), Training and Placement Representative (2017-19), Co-Coordinator at State Level Technical, Literary and Management Fest (2018)
+- degree: B.Tech
+  uni: Institute of Engineering and Technology (IET), Lucknow
+  year: 2015 &mdash; 2019
+  awards:
+   - award: Received the prestigious Award for exemplary leadership as the Student Head of the Dean Student Welfare Committee, overseeing a team of 50+ members dedicated to managing scholarships for eligible students (2019)
+  summary: Treasurer at State Level Art's and Cultural Fest (2018), Dean Student Welfare Coordinator (2017-19), Training and Placement Representative (2017-19), Co-Coordinator at State Level Technical, Literary and Management Fest (2018)
+
