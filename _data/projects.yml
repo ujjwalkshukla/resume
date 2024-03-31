@@ -1,16 +1,44 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Mokkup.ai
+- project: Product Review and Flow Improvement
+  role: Product Management Intern
+  duration: 2023
+   url: "https://docs.google.com/presentation/d/16RRGnW1-rBPOPXy8ZwA6Y1CkTsFhsA7a/edit?usp=drive_link&ouid=115919429677431796433&rtpof=true&sd=true"
+  description: I was tasked to review the product and come up with a flow that can further be improved.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Mokkup.ai
+- project: Go to Market Strategy for a cloud based dashboard wireframing tool.
+  role: Product Management Intern
+  duration: 2023
+   url: "https://docs.google.com/presentation/d/1QSv1ZUWWwqmFqGfRtDu-5tyZ-X1Hs6MH/edit?usp=drive_link&ouid=115919429677431796433&rtpof=true&sd=true"
+  description: I was tasked to devise the GTM Strategy for a dashboard wireframing tool, Mokkup.ai.
+
+# Tiger Analytics
+- project: E-Commerce Case Study Analysis
+  role: Analytics Consulting Intern
+  duration: 2022
+   url: "https://docs.google.com/presentation/d/1SQNqI1MJBU1iNS6cHGRjuYyFIOq1K0Hl/edit?usp=drive_link&ouid=115919429677431796433&rtpof=true&sd=true"
+  description: I used Python and Power BI for various steps (EDA, Market Analysis and RFM Analysis) of the case study
+
+# Oxane Partners
+- project: Due Dilligence of Metropolis Capital's Existing pool of unsecured loans
+  role: Case Study Participant
+  duration: 2022
+   url: "https://docs.google.com/presentation/d/1SQNqI1MJBU1iNS6cHGRjuYyFIOq1K0Hl/edit?usp=drive_link&ouid=115919429677431796433&rtpof=true&sd=true"
+  description: This project was mixed of Analytics and Finance knowldege, we used alternative asset management concepts along with Strategy and Analytics.
+
+# Tiger Analytics
+- project: Discount & Markdown Strategy Optimization
+  role: Analytics Consulting Intern
+  duration: 2022
+   url: "https://docs.google.com/presentation/d/1SQNqI1MJBU1iNS6cHGRjuYyFIOq1K0Hl/edit?usp=drive_link&ouid=115919429677431796433&rtpof=true&sd=true"
+  description: I used Python and Power BI for various of the case study for Discount & Markdown Strategy Optimization.
+
+  # Marketing Research Project
+- project: Whether OTT platforms can replace the DTH service providers in coming future?
+  role: Marketing Research Course Project at IIT Kanpur
+  duration: 2022
+   url: "https://drive.google.com/file/d/15qeoCinH7q2HqQzSoLRGySwhGiT6NXl9/view?usp=drive_link"
+  description: We leveraged Marketing Research tools and concepts like Surveys and Analytical tools like SPSS to carry out this project.
