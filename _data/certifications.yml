@@ -1,55 +1,38 @@
-#certifications
-    - name: "Foundations of Project Management"
-      issuing_organization: "Google"
-      issued_date: "March, 2024"
-      #description: "Completed ‘Foundations of Project Management’ authorized by Google"
-      credential_url: "https://www.coursera.org/account/accomplishments/verify/NQVJDSSK6DX4"
-
-    - name: "Jira Fundamentals Badge"
-      issuing_organization: "Atlassian University"
-      issued_date: "February, 2023"
-      #description: "Description of Certification 2"
-      credential_url: "https://university.atlassian.com/student/award/TLTDcY6jbJW4e2DQgnkALUrN"
-
-    - name: "Tableau Desktop II: Intermediate"
-      issuing_organization: "Tableau E-Learning Program"
-      issued_date: "September, 2021"
-      #description: "Description of Certification 2"
-      credential_url: "https://verify.skilljar.com/c/ubhq9gbtgjhc"   
-
-      - name: "Brand and Product Management"
-      issuing_organization: "University IE Business School by Coursera"
-      issued_date: "August, 2021"
-      #description: "Description of Certification 2"
-      credential_url: "https://www.coursera.org/account/accomplishments/certificate/V4ZAWSVQGXAW"   
-
-    - name: "Marketing in a Digital World"
-      issuing_organization: "University of Illinois at Urbana-Champaign by Coursera"
-      issued_date: "July, 2021"
-      #description: "Description of Certification 2"
-      credential_url: "https://www.coursera.org/account/accomplishments/certificate/84QXS6PCJU7E" 
-
-    - name: "Google Analytics for Beginners"
-      issuing_organization: "Google Analytics Academy"
-      issued_date: "December, 2022"
-      #description: "Description of Certification 2"
-      credential_url: "https://analytics.google.com/analytics/academy/certificate/LHxJd-X0S7KvHW9OHb6rEg" 
-
-      - name: "Alteryx Foundational Micro-Credential"
-      issuing_organization: "Altreyx"
-      issued_date: "September, 2022"
-      #description: "Description of Certification 2"
-      credential_url: "https://www.credly.com/badges/f3d98fda-cea6-427e-86fb-161855245a5a/public_url"  
-
-      - name: "Introduction to Data Science in Python"
-      issuing_organization: "University of Michigan by Coursera"
-      issued_date: "April, 2022"
-      #description: "Description of Certification 2"
-      credential_url: "https://www.coursera.org/account/accomplishments/certificate/YC9F36ML3UBS" 
-
-      - name: "Introduction to Marketing"
-      issuing_organization: "Wharton University of Pennslvania by Coursera"
-      issued_date: "AAugust, 2021"
-      #description: "Description of Certification 2"
-      credential_url: "https://www.coursera.org/account/accomplishments/certificate/JACCAERDABT3" 
-
+---
+certifications:
+  - name: Foundations of Project Management
+    issuing_organization: Google
+    issued_date: March, 2024
+    credential_url: https://www.coursera.org/account/accomplishments/verify/NQVJDSSK6DX4
+  - name: Jira Fundamentals Badge
+    issuing_organization: Atlassian University
+    issued_date: February, 2023
+    credential_url: https://university.atlassian.com/student/award/TLTDcY6jbJW4e2DQgnkALUrN
+  - name: "Tableau Desktop II: Intermediate"
+    issuing_organization: Tableau E-Learning Program
+    issued_date: September, 2021
+    credential_url: https://verify.skilljar.com/c/ubhq9gbtgjhc
+  - name: Brand and Product Management
+    issuing_organization: University IE Business School by Coursera
+    issued_date: August, 2021
+    credential_url: https://www.coursera.org/account/accomplishments/certificate/V4ZAWSVQGXAW
+  - name: Marketing in a Digital World
+    issuing_organization: University of Illinois at Urbana-Champaign by Coursera
+    issued_date: July, 2021
+    credential_url: https://www.coursera.org/account/accomplishments/certificate/84QXS6PCJU7E
+  - name: Google Analytics for Beginners
+    issuing_organization: Google Analytics Academy
+    issued_date: December, 2022
+    credential_url: https://analytics.google.com/analytics/academy/certificate/LHxJd-X0S7KvHW9OHb6rEg
+  - name: Alteryx Foundational Micro-Credential
+    issuing_organization: Alteryx
+    issued_date: September, 2022
+    credential_url: https://www.credly.com/badges/f3d98fda-cea6-427e-86fb-161855245a5a/public_url
+  - name: Introduction to Data Science in Python
+    issuing_organization: University of Michigan by Coursera
+    issued_date: April, 2022
+    credential_url: https://www.coursera.org/account/accomplishments/certificate/YC9F36ML3UBS
+  - name: Introduction to Marketing
+    issuing_organization: Wharton University of Pennslvania by Coursera
+    issued_date: AAugust, 2021
+    credential_url: https://www.coursera.org/account/accomplishments/certificate/JACCAERDABT3
