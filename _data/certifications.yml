@@ -1,5 +1,4 @@
----
-certifications:
+#certifications:
   - name: Foundations of Project Management
     issuing_organization: Google
     issued_date: March, 2024
