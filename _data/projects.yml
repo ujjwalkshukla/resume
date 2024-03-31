@@ -26,14 +26,21 @@
 - project: Due Dilligence of Metropolis Capital's Existing pool of unsecured loans
   role: Case Study Participant
   duration: 2022
-   url: "https://docs.google.com/presentation/d/1SQNqI1MJBU1iNS6cHGRjuYyFIOq1K0Hl/edit?usp=drive_link&ouid=115919429677431796433&rtpof=true&sd=true"
+   url: "https://docs.google.com/presentation/d/1-DEnKn7b9VeqwqNeA9RYEOROHVKqHDgC/edit?usp=drive_link&ouid=115919429677431796433&rtpof=true&sd=true"
   description: This project was mixed of Analytics and Finance knowldege, we used alternative asset management concepts along with Strategy and Analytics.
+
+# Data Mining and Knowledge Discovery
+- project: Product recommendations for the next purchase based on existing customer data and purchase history
+  role: Data Mining and Knowledge Discovery Course Project at IIT Kanpur
+  duration: 2022
+   url: "https://drive.google.com/file/d/1QRUbX-snC91unqnmAfXWP1I6IptpZeFV/view?usp=drive_link"
+  description: We used the data mining algorithms and concepts such as "Apriori Algorithm and Market Basket Analysis" to carry out this project.
 
 # Tiger Analytics
 - project: Discount & Markdown Strategy Optimization
   role: Analytics Consulting Intern
   duration: 2022
-   url: "https://docs.google.com/presentation/d/1SQNqI1MJBU1iNS6cHGRjuYyFIOq1K0Hl/edit?usp=drive_link&ouid=115919429677431796433&rtpof=true&sd=true"
+   url: "https://drive.google.com/file/d/1cxMfrG5ObxCCqm6XfwVwgI12VkxdaGGR/view?usp=drive_link"
   description: I used Python and Power BI for various of the case study for Discount & Markdown Strategy Optimization.
 
   # Marketing Research Project
