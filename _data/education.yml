@@ -1,13 +1,15 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Master of Business Administration (MBA)
+  uni: Indian Institute of Technology (IIT), Kanpur
+  year: 2021 &mdash; 2023
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Winner of Oxane Quest Season 1- A business case study competition
+  summary: Batch Representative, Capstone Coordinator, DPGC Student Representative
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: B.Tech
+  uni: Institute of Engineering and Technology (IET), Lucknow
+  year: 2015 &mdash; 2019
+  # awards:
+  #   - award: 
+  summary: Treasurer at State Level Art's and Cultural Fest (2018), Dean Student Welfare Coordinator (2017-19)
+
