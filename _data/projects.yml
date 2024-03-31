@@ -29,6 +29,13 @@
   url: "https://docs.google.com/presentation/d/1-DEnKn7b9VeqwqNeA9RYEOROHVKqHDgC/edit?usp=drive_link&ouid=115919429677431796433&rtpof=true&sd=true"
   description: This project was mixed of Analytics and Finance knowldege, we used alternative asset management concepts along with Strategy and Analytics.
 
+# SMBA
+- project: Developed a model for 'Prediction of occurance of Diabetes' using Machine Learning Algorithm- Logistic Regression
+  role: Statistical Modelling For Business Analytics course project at IIT Kanpur
+  duration: 2022
+  url: "https://docs.google.com/presentation/d/1-iv106n_taF7Izlf1rlAMnihdacRvGbq/edit?usp=drive_link&ouid=115919429677431796433&rtpof=true&sd=true"
+  description: Developed a model for “Prediction of occurence of Diabetes” model using Machine Learning Algorithm – Logistic Regression with Blood Pressure, Glucose, Age, Pregnecncy and insulin as independent variables and Occurance of Diabetes as dependent variable.
+
 # Data Mining and Knowledge Discovery
 - project: Product recommendations for the next purchase based on existing customer data and purchase history
   role: Data Mining and Knowledge Discovery Course Project at IIT Kanpur
