@@ -1,0 +1,11 @@
+#certifications
+    - name: "Certification 1"
+      issuing_organization: "Organization 1"
+      issued_date: "2023-01-01"
+      description: "Description of Certification 1"
+      credential_url: "https://example.com/certification1"
+    - name: "Certification 2"
+      issuing_organization: "Organization 2"
+      issued_date: "2023-02-01"
+      description: "Description of Certification 2"
+      credential_url: "https://example.com/certification2"
